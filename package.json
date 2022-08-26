@@ -1,0 +1,20 @@
+{
+  "name": "pet-adoption",
+  "version": "1.0.0",
+  "description": "Pet Adoption Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "author": "...",
+  "license": "ISC"
+}
